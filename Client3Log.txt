@@ -1,0 +1,7 @@
+Successfully logged into server
+Received the road map from server
+Calculated path: 4 4 8 8
+Successfully logged into GPS
+GPS time at 4 4 is 1419756557
+GPS time at 8 8 is 1419756558
+You have reached destination
